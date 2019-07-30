@@ -1,0 +1,1 @@
+alert("Tomorrow will be better!");
